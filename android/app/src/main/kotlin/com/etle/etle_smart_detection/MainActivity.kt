@@ -1,0 +1,5 @@
+package com.etle.etle_smart_detection
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
